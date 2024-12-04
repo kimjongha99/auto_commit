@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Oracle Ships GraalVM Java JIT Compiler - but Only in Its Own JDK
+주소: https://www.infoq.com/news/2024/12/oracle-jdk-graalvm-jit-compiler/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Oracle added the GraalVM Just-in-time (JIT) compiler as an experimental feature to Oracle JDK 23, its OpenJDK distribution, in September 2024. The GraalVM JIT compiler is faster than the standard OpenJDK JIT compiler and easier to maintain. Oracle&#39;s move is controversial because it has investigated including the GraalVM JIT compiler in all OpenJDK distributions, not just its own.
+
+2번째 검색 내용
+제목: AWS Launches Lambda SnapStart for Python and .NET Functions
+주소: https://www.infoq.com/news/2024/12/aws-lambda-snapstart-python-net/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS has unveiled Lambda SnapStart for Python and .NET, enhancing serverless app performance by reducing cold start latency. This feature builds on the success of Lambda SnapStart for Java, allowing faster initializations through early environment caching. Available in multiple global regions, it offers efficient management of caching costs with Python 3.12+ and .NET 8+.
+
+3번째 검색 내용
+제목: Java News Roundup: Last of the JEPs Targeted to JDK 24, Quarkus 3.17, Maven 4.0-RC1, Kotlin 2.1
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-nov25-2024/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for November 25th, 2024 features news highlighting: the last of the JEPs targeted to JDK 24 before Rampdown Phase One; the release of Quarkus 3.17.0, Hibernate Search 7.2.2, Kotlin 2.1.0 and JDKUpdater 14.0.67+100; the second release candidate of Vert.x 5.0 and the first release candidate of Maven 4.0.0.
+
+4번째 검색 내용
+제목: AWS Cloud Development Kit Vulnerability Enables Full AWS Account Takeover
+주소: https://www.infoq.com/news/2024/12/aws-cdk-full-account-takeover/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: A new vulnerability discovered in AWS Cloud Development Kit (CDK) by security firm Aqua could lead to an attacker fully taking over a target AWS account due to manual deletion of artifact S3 buckets. While AWS fixed the vulnerability, you are still required to take action if you have used CDK version v2.148.1 or earlier.
+
+5번째 검색 내용
+제목: Aurora Serverless v2 Adds Zero-Capacity Scaling for True Serverless
+주소: https://www.infoq.com/news/2024/12/aurora-serverless-zero-capacity/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Amazon Aurora Serverless v2 has recently announced that it now supports scaling to zero capacity, enabling the database to automatically pause after a period of inactivity based on database connections. The lack of the ability to scale to zero capacity for Aurora's on-demand automatic scaling configuration has been a contentious topic for many years.
+
+6번째 검색 내용
+제목: Amazon Marks 10 Years of AWS Lambda by Releasing Initial Internal Document
+주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Werner Vogels, Amazon’s CTO, recently unveiled the internal design narrative that initiated the AWS Lambda project. The release of the PR/FAQ that sparked the development of one of Amazon’s most popular services offers a “peek behind the curtain” and highlights the initial vision for serverless computing at Amazon.
+
+7번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: Yahoo’s Kubernetes Journey On-Prem to Multi-Cloud
+주소: https://www.infoq.com/news/2024/11/yahoo-kubernetes-journey/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: At KubeCon+CloudNativeCon North America 2024, Nandhakumar Venkatachalam and Payal Patel shared Yahoo's Kubernetes journey from on-premises to multi-cloud at scale, underscoring challenges faced and lessons learned during this transition.
+
+8번째 검색 내용
+제목: Stream All the Things: Patterns of Effective Data Stream Processing Explored by Adi Polak at QCon SF
+주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Adi Polak, Director of Advocacy and Developer Experience Engineering at Confluent, illuminated the complexities of data streaming in her QCon San Francisco presentation. She outlined key design patterns for robust pipelines, emphasizing reliability, scalability, and data integrity.
+
+9번째 검색 내용
+제목: How to Use Programming Rules and Guidelines
+주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
+
+10번째 검색 내용
+제목: QCon San Francisco 2024 Day 3: Arch Evolution, Next Gen UIs, Staff+ and Hardware Architectures
+주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
+
+11번째 검색 내용
+제목: Anna Berenberg Talks at QCon San Francisco on Google's One Network
+주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Anna Berenberg, an Engineering Fellow at Google Cloud, unveiled One Network, a cloud-agnostic architecture that simplifies complex interconnected systems. Unifying disparate environments and leveraging open-source technologies enhances operational efficiency and consistency in security policies, empowering developers to focus on service endpoints while ensuring seamless platform integration.
+
+12번째 검색 내용
+제목: Uno Platform Launches Hot Design, a Cross-Platform Visual Designer for .NET Apps
+주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Uno platform has unveiled Hot Design, a visual designer for .NET applications, as part of a suite named Uno Platform Studio. It allows developers and designers to design the app interface at runtime instead of design and development time.
+
+13번째 검색 내용
+제목: Java News Roundup: OpenJDK and Jakarta EE 11 Updates, Payara Platform, Vert.x, Log4j, JobRunr
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov18-2024/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for November 18th, 2024, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 24; Jakarta EE 11 Core Profile in release review; the November 2024 Payara Platform release; the first release candidate of Vert.x 5.0; and point releases of Log4j 2.24.2 and JobRunr 7.3.2.
+
+14번째 검색 내용
+제목: Spring News Roundup: Delivering GA Releases of Boot, Security, Auth Server, Integration, Modulith
+주소: https://www.infoq.com/news/2024/11/spring-news-roundup-nov18-2024/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: There was a flurry of activity in the Spring ecosystem during the week of November 18th, 2024, highlighting GA releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka and Spring for Apache Pulsar.
+
+15번째 검색 내용
+제목: Scaling OpenSearch Clusters for Cost Efficiency Talk by Amitai Stern at QCon San Francisco
+주소: https://www.infoq.com/news/2024/11/opensearch-cluster-cost-savings/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Amitai Stern, engineering manager at Logz.io and OpenSearch Leadership Committee member delivered practical insights on efficient OpenSearch cluster management at QCon San Francisco. His session highlighted strategies for scaling effectively amidst fluctuating workloads, focusing on optimal shard management and resource allocation to minimize costs without compromising performance.
+
