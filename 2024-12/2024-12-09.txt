@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: AWS Transfer Family Web Apps: Simplified S3 Data Access through the Browser
+주소: https://www.infoq.com/news/2024/12/aws-transfer-family-web-apps/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: AWS Transfer Family's new web apps offer a user-friendly, no-code solution for secure access to Amazon S3 data. Designed for non-technical users, these fully managed portals simplify file management and enhance security with AWS IAM integration. Easily customizable and compliant with major standards, they streamline workflows and bridge gaps in traditional file transfer methods.
+
+2번째 검색 내용
+제목: Micro Metrics for LLM System Evaluation at QCon SF 2024
+주소: https://www.infoq.com/news/2024/12/llm-eval-micro-metric/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
+
+3번째 검색 내용
+제목: How Slack Used an AI-Powered Hybrid Approach to Migrate from Enzyme to React Testing Library
+주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Enzyme’s lack of support for React 18 made their existing unit tests unusable and jeopardized the foundational confidence they provided, Sergii Gorbachov said at QCon San Francisco. He showed how Slack migrated all Enzyme tests to React Testing Library (RTL) to ensure the continuity of their test coverage.
+
+4번째 검색 내용
+제목: AISuite is a New Open Source Python Library Providing a Unified Cross-LLM API
+주소: https://www.infoq.com/news/2024/12/aisuite-cross-llm-api/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Recently announced by Andrew Ng, aisuite aims to provide an OpenAI-like API around the most popular large language models (LLMs) currently available to make it easy for developers to try them out and compare results or switch from one LLM to another without having to change their code.
+
+5번째 검색 내용
+제목: Oracle Ships GraalVM Java JIT Compiler - but Only in Its Own JDK
+주소: https://www.infoq.com/news/2024/12/oracle-jdk-graalvm-jit-compiler/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Oracle added the GraalVM Just-in-time (JIT) compiler as an experimental feature to Oracle JDK 23, its OpenJDK distribution, in September 2024. The GraalVM JIT compiler is faster than the standard OpenJDK JIT compiler and easier to maintain. Oracle's move is controversial because it has investigated including the GraalVM JIT compiler in all OpenJDK distributions, not just its own.
+
+6번째 검색 내용
+제목: AWS Launches Lambda SnapStart for Python and .NET Functions
+주소: https://www.infoq.com/news/2024/12/aws-lambda-snapstart-python-net/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: AWS has unveiled Lambda SnapStart for Python and .NET, enhancing serverless app performance by reducing cold start latency. This feature builds on the success of Lambda SnapStart for Java, allowing faster initializations through early environment caching. Available in multiple global regions, it offers efficient management of caching costs with Python 3.12+ and .NET 8+.
+
+7번째 검색 내용
+제목: Java News Roundup: Last of the JEPs Targeted to JDK 24, Quarkus 3.17, Maven 4.0-RC1, Kotlin 2.1
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-nov25-2024/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: This week's Java roundup for November 25th, 2024, features news highlighting: the last of the JEPs targeted to JDK 24 before Rampdown Phase One; the release of Quarkus 3.17.0, Hibernate Search 7.2.2, Kotlin 2.1.0 and JDKUpdater 14.0.67+100; the second release candidate of Vert.x 5.0 and the first release candidate of Maven 4.0.0.
+
+8번째 검색 내용
+제목: AWS Cloud Development Kit Vulnerability Enables Full AWS Account Takeover
+주소: https://www.infoq.com/news/2024/12/aws-cdk-full-account-takeover/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: A new vulnerability discovered in AWS Cloud Development Kit (CDK) by security firm Aqua could lead to an attacker fully taking over a target AWS account due to manual deletion of artifact S3 buckets. While AWS fixed the vulnerability, you are still required to take action if you have used CDK version v2.148.1 or earlier.
+
+9번째 검색 내용
+제목: Aurora Serverless v2 Adds Zero-Capacity Scaling for True Serverless
+주소: https://www.infoq.com/news/2024/12/aurora-serverless-zero-capacity/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Amazon Aurora Serverless v2 has recently announced that it now supports scaling to zero capacity, enabling the database to automatically pause after a period of inactivity based on database connections. The lack of the ability to scale to zero capacity for Aurora's on-demand automatic scaling configuration has been a contentious topic for many years.
+
+10번째 검색 내용
+제목: Amazon Marks 10 Years of AWS Lambda by Releasing Initial Internal Document
+주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Werner Vogels, Amazon’s CTO, recently unveiled the internal design narrative that initiated the AWS Lambda project. The release of the PR/FAQ that sparked the development of one of Amazon’s most popular services offers a “peek behind the curtain” and highlights the initial vision for serverless computing at Amazon.
+
+11번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: Yahoo’s Kubernetes Journey On-Prem to Multi-Cloud
+주소: https://www.infoq.com/news/2024/11/yahoo-kubernetes-journey/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: At KubeCon+CloudNativeCon North America 2024, Nandhakumar Venkatachalam and Payal Patel shared Yahoo's Kubernetes journey from on-premises to multi-cloud at scale, underscoring challenges faced and lessons learned during this transition.
+
+12번째 검색 내용
+제목: Stream All the Things: Patterns of Effective Data Stream Processing Explored by Adi Polak at QCon SF
+주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Adi Polak, Director of Advocacy and Developer Experience Engineering at Confluent, illuminated the complexities of data streaming in her QCon San Francisco presentation. She outlined key design patterns for robust pipelines, emphasizing reliability, scalability, and data integrity.
+
+13번째 검색 내용
+제목: How to Use Programming Rules and Guidelines
+주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
+
+14번째 검색 내용
+제목: QCon San Francisco 2024 Day 3: Arch Evolution, Next Gen UIs, Staff+ and Hardware Architectures
+주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
+
+15번째 검색 내용
+제목: Anna Berenberg Talks at QCon San Francisco on Google's One Network
+주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/?topicPageSponsorship=370e7634-8262-43f5-8ce9-b1a7cebd3b63
+설명: Anna Berenberg, an Engineering Fellow at Google Cloud, unveiled One Network, a cloud-agnostic architecture that simplifies complex interconnected systems. Unifying disparate environments and leveraging open-source technologies enhances operational efficiency and consistency in security policies, empowering developers to focus on service endpoints while ensuring seamless platform integration.
+
