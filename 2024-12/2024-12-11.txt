@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Amazon S3 Introduces Metadata Feature for Improved Data Management and Querying in Preview
+주소: https://www.infoq.com/news/2024/12/metadata-amazon-s3-buckets/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Amazon Web Services (AWS) has launched S3 Metadata, enhancing data management for S3 users. This new capability enables near real-time querying and analysis of S3 data via organized metadata updates. By adopting Apache Iceberg, it ensures interoperability and scalability, allowing businesses to efficiently leverage their data for analytics and AI applications.
+
+2번째 검색 내용
+제목: QCon SF 2024: Refactoring Large, Stubborn Codebases
+주소: https://www.infoq.com/news/2024/12/refactoring-zimmerman-ritter/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Jake Zimmerman, Technical Lead of Sorbet at Stripe, and Getty Ritter, Ruby Infrastructure Engineer at Stripe, presented Refactoring Stubborn, Legacy Codebases at the 2024 QCon San Francisco conference. Zimmerman and Ritter demonstrated how to fix complaints on maintaining a large codebase with leverage and by ratcheting incremental progress.
+
+3번째 검색 내용
+제목: Kotlin Reaches 2.1.0, Bringing New Language Features, Compiler Updates, and More
+주소: https://www.infoq.com/news/2024/12/kotlin-2-1-language-features/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Kotlin 2.1.0 introduces new syntax, including guard conditions, non-local break and continue, and multi-dollar string interpolation. Additionally, it extends its multiplatform capabilities and improves the K2 compiler.
+
+4번째 검색 내용
+제목: From Aurora DSQL to Amazon Nova: Highlights of re:Invent 2024
+주소: https://www.infoq.com/news/2024/12/highlights-reinvent-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: The 2024 edition of re:Invent has just ended in Las Vegas. As anticipated, AI was a key focus of the conference, with Amazon Nova and a new version of Sagemaker among the most significant highlights. However, the announcement that generated the most excitement in the community was the preview of Amazon Aurora DSQL, a serverless, distributed SQL database with active-active high availability.
+
+5번째 검색 내용
+제목: Java News Roundup: JDK 24 in Rampdown, JDK 25 Expert Group, Jakarta EE 11 Core Profile, Spring Cloud
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec02-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: This week's Java roundup for December 2nd, 2024 features news highlighting: JDK 24 in Rampdown Phase One; the formation of the JDK 25 Expert Group; the release of Jakarta EE 11 Core Profile and Spring Cloud 2024.0.0; and point releases for GlassFish, Open Liberty, Quarkus and Apache Camel.
+
+6번째 검색 내용
+제목: AWS Transfer Family Web Apps: Simplified S3 Data Access through the Browser
+주소: https://www.infoq.com/news/2024/12/aws-transfer-family-web-apps/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: AWS Transfer Family's new web apps offer a user-friendly, no-code solution for secure access to Amazon S3 data. Designed for non-technical users, these fully managed portals simplify file management and enhance security with AWS IAM integration. Easily customizable and compliant with major standards, they streamline workflows and bridge gaps in traditional file transfer methods.
+
+7번째 검색 내용
+제목: Micro Metrics for LLM System Evaluation at QCon SF 2024
+주소: https://www.infoq.com/news/2024/12/llm-eval-micro-metric/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
+
+8번째 검색 내용
+제목: How Slack Used an AI-Powered Hybrid Approach to Migrate from Enzyme to React Testing Library
+주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Enzyme’s lack of support for React 18 made their existing unit tests unusable and jeopardized the foundational confidence they provided, Sergii Gorbachov said at QCon San Francisco. He showed how Slack migrated all Enzyme tests to React Testing Library (RTL) to ensure the continuity of their test coverage.
+
+9번째 검색 내용
+제목: AISuite is a New Open Source Python Library Providing a Unified Cross-LLM API
+주소: https://www.infoq.com/news/2024/12/aisuite-cross-llm-api/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Recently announced by Andrew Ng, aisuite aims to provide an OpenAI-like API around the most popular large language models (LLMs) currently available to make it easy for developers to try them out and compare results or switch from one LLM to another without having to change their code.
+
+10번째 검색 내용
+제목: Oracle Ships GraalVM Java JIT Compiler - but Only in Its Own JDK
+주소: https://www.infoq.com/news/2024/12/oracle-jdk-graalvm-jit-compiler/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Oracle added the GraalVM Just-in-time (JIT) compiler as an experimental feature to Oracle JDK 23, its OpenJDK distribution, in September 2024. The GraalVM JIT compiler is faster than the standard OpenJDK JIT compiler and easier to maintain. Oracle's move is controversial because it has investigated including the GraalVM JIT compiler in all OpenJDK distributions, not just its own.
+
+11번째 검색 내용
+제목: AWS Launches Lambda SnapStart for Python and .NET Functions
+주소: https://www.infoq.com/news/2024/12/aws-lambda-snapstart-python-net/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: AWS has unveiled Lambda SnapStart for Python and .NET, enhancing serverless app performance by reducing cold start latency. This feature builds on the success of Lambda SnapStart for Java, allowing faster initializations through early environment caching. Available in multiple global regions, it offers efficient management of caching costs with Python 3.12+ and .NET 8+.
+
+12번째 검색 내용
+제목: Java News Roundup: Last of the JEPs Targeted to JDK 24, Quarkus 3.17, Maven 4.0-RC1, Kotlin 2.1
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-nov25-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: This week's Java roundup for November 25th, 2024, features news highlighting: the last of the JEPs targeted to JDK 24 before Rampdown Phase One; the release of Quarkus 3.17.0, Hibernate Search 7.2.2, Kotlin 2.1.0 and JDKUpdater 14.0.67+100; the second release candidate of Vert.x 5.0 and the first release candidate of Maven 4.0.0.
+
+13번째 검색 내용
+제목: AWS Cloud Development Kit Vulnerability Enables Full AWS Account Takeover
+주소: https://www.infoq.com/news/2024/12/aws-cdk-full-account-takeover/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: A new vulnerability discovered in AWS Cloud Development Kit (CDK) by security firm Aqua could lead to an attacker fully taking over a target AWS account due to manual deletion of artifact S3 buckets. While AWS fixed the vulnerability, you are still required to take action if you have used CDK version v2.148.1 or earlier.
+
+14번째 검색 내용
+제목: Aurora Serverless v2 Adds Zero-Capacity Scaling for True Serverless
+주소: https://www.infoq.com/news/2024/12/aurora-serverless-zero-capacity/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Amazon Aurora Serverless v2 has recently announced that it now supports scaling to zero capacity, enabling the database to automatically pause after a period of inactivity based on database connections. The lack of the ability to scale to zero capacity for Aurora's on-demand automatic scaling configuration has been a contentious topic for many years.
+
+15번째 검색 내용
+제목: Amazon Marks 10 Years of AWS Lambda by Releasing Initial Internal Document
+주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Werner Vogels, Amazon’s CTO, recently unveiled the internal design narrative that initiated the AWS Lambda project. The release of the PR/FAQ that sparked the development of one of Amazon’s most popular services offers a “peek behind the curtain” and highlights the initial vision for serverless computing at Amazon.
+
