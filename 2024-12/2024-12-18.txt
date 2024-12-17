@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Challenges of Creating iOS App Extensions at Lyft
+주소: https://www.infoq.com/news/2024/12/lyft-ios-maps-extension/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: In a recent article, Lyft engineers Artur Stepaniuk and Max Husar described how Lyft handles the complexity of creating an app extension for their iOS app without breaking the tight RAM and binary size constraints set by Apple nor impair user experience.
+
+2번째 검색 내용
+제목: OpenAI Releases Sora and Full Version of O1 Reasoning Model with Fine-Tuning
+주소: https://www.infoq.com/news/2024/12/openai-sora-o1-finetuning/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: OpenAI has unveiled its advanced o1 reasoning model and the video generation model Sora, enhancing complex reasoning and video creation capabilities. Sora produces high-quality videos using innovative diffusion techniques, while o1 excels in nuanced reasoning and safety. Together, they signal a transformative leap in AI, bridging creativity and rigorous reasoning.
+
+3번째 검색 내용
+제목: Post-Quantum Cryptography in Java
+주소: https://www.infoq.com/news/2024/12/java-post-quantum/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: A pair of new JEPs arriving in Java 24 provide an initial Post-Quantum Cryptography (PQC) capability in Java.
+
+4번째 검색 내용
+제목: Java News Roundup: Spring Framework, WildFly, Hibernate, EclipseStore, Piranha Cloud
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec09-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: This week's Java roundup for December 9th, 2024 features news highlighting: point releases for the Spring Framework; the first beta release of WildFly 35; Hibernate ORM 7.0.0.Beta3, Hibernate Reactive 3.0.0.Beta1 and Hibernate Validator 9.0.0.RC1; and the release of EclipseStore 2.1 and Piranha Cloud 24.12.0.
+
+5번째 검색 내용
+제목: Google AI Agent Jules Aims at Helping Developers with Their GitHub-Based Workflows
+주소: https://www.infoq.com/news/2024/12/google-jules-agent/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Part of Gemini 2.0, Google has launched its new AI-based coding assistant in closed preview. Dubbed "Jules", the assistant aims at helping developers to work with Python and JavaScript issues and pull requests, handle bug fixes, and other related tasks.
+
+6번째 검색 내용
+제목: Amazon CloudFront Introduces Support for VPC Origins and Static IPs
+주소: https://www.infoq.com/news/2024/12/cloudfront-vpc-static-ips/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Ahead of re:Invent, AWS has announced that Amazon CloudFront now supports Anycast static IPs, providing a dedicated set of IP addresses for connecting to all CloudFront edge locations worldwide. Additionally, the new VPC origins feature enables developers to designate private resources within a VPC as origins, eliminating the need for public IP addresses or internet connectivity.
+
+7번째 검색 내용
+제목: Amazon S3 Introduces Metadata Feature for Improved Data Management and Querying in Preview
+주소: https://www.infoq.com/news/2024/12/metadata-amazon-s3-buckets/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Amazon Web Services (AWS) has launched S3 Metadata, enhancing data management for S3 users. This new capability enables near real-time querying and analysis of S3 data via organized metadata updates. By adopting Apache Iceberg, it ensures interoperability and scalability, allowing businesses to efficiently leverage their data for analytics and AI applications.
+
+8번째 검색 내용
+제목: QCon SF 2024: Refactoring Large, Stubborn Codebases
+주소: https://www.infoq.com/news/2024/12/refactoring-zimmerman-ritter/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Jake Zimmerman, technical lead of Sorbet at Stripe, and Getty Ritter, Ruby infrastructure engineer at Stripe, presented Refactoring Stubborn, Legacy Codebases at the 2024 QCon San Francisco conference. Zimmerman and Ritter demonstrated how to fix complaints on maintaining a large codebase with leverage and by ratcheting incremental progress.
+
+9번째 검색 내용
+제목: Kotlin Reaches 2.1.0, Bringing New Language Features, Compiler Updates, and More
+주소: https://www.infoq.com/news/2024/12/kotlin-2-1-language-features/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Kotlin 2.1.0 introduces new syntax, including guard conditions, non-local break and continue, and multi-dollar string interpolation. Additionally, it extends its multiplatform capabilities and improves the K2 compiler.
+
+10번째 검색 내용
+제목: From Aurora DSQL to Amazon Nova: Highlights of re:Invent 2024
+주소: https://www.infoq.com/news/2024/12/highlights-reinvent-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: The 2024 edition of re:Invent has just ended in Las Vegas. As anticipated, AI was a key focus of the conference, with Amazon Nova and a new version of Sagemaker among the most significant highlights. However, the announcement that generated the most excitement in the community was the preview of Amazon Aurora DSQL, a serverless, distributed SQL database with active-active high availability.
+
+11번째 검색 내용
+제목: Java News Roundup: JDK 24 in Rampdown, JDK 25 Expert Group, Jakarta EE 11 Core Profile, Spring Cloud
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec02-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: This week's Java roundup for December 2nd, 2024, features news highlighting: JDK 24 in Rampdown Phase One; the formation of the JDK 25 Expert Group; the release of Jakarta EE 11 Core Profile and Spring Cloud 2024.0.0; and point releases for GlassFish, Open Liberty, Quarkus and Apache Camel.
+
+12번째 검색 내용
+제목: AWS Transfer Family Web Apps: Simplified S3 Data Access through the Browser
+주소: https://www.infoq.com/news/2024/12/aws-transfer-family-web-apps/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: AWS Transfer Family's new web apps offer a user-friendly, no-code solution for secure access to Amazon S3 data. Designed for non-technical users, these fully managed portals simplify file management and enhance security with AWS IAM integration. Easily customizable and compliant with major standards, they streamline workflows and bridge gaps in traditional file transfer methods.
+
+13번째 검색 내용
+제목: Micro Metrics for LLM System Evaluation at QCon SF 2024
+주소: https://www.infoq.com/news/2024/12/llm-eval-micro-metric/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
+
+14번째 검색 내용
+제목: How Slack Used an AI-Powered Hybrid Approach to Migrate from Enzyme to React Testing Library
+주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Enzyme’s lack of support for React 18 made their existing unit tests unusable and jeopardized the foundational confidence they provided, Sergii Gorbachov said at QCon San Francisco. He showed how Slack migrated all Enzyme tests to React Testing Library (RTL) to ensure the continuity of their test coverage.
+
+15번째 검색 내용
+제목: AISuite is a New Open Source Python Library Providing a Unified Cross-LLM API
+주소: https://www.infoq.com/news/2024/12/aisuite-cross-llm-api/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Recently announced by Andrew Ng, aisuite aims to provide an OpenAI-like API around the most popular large language models (LLMs) currently available to make it easy for developers to try them out and compare results or switch from one LLM to another without having to change their code.
+
