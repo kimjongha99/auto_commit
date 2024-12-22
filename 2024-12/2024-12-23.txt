@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Google Willow Sets New Quantum Supremacy Milestone
+주소: https://www.infoq.com/news/2024/12/google-willow-quantum-supremacy/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Google has announced its new 105-qubit superconducting chip, code-named Willow, which solved a quantum supremacy experiment that would take at least 300 million years to simulate on a classical computer. More importantly, the chip shows how quantum hardware may achieve fault tolerance in such a way to seemingly unleash its scalability.
+
+2번째 검색 내용
+제목: Redis Creator 'antirez' Returns: Can He Shift Momentum away from Valkey?
+주소: https://www.infoq.com/news/2024/12/redis-antirez-back/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+
+3번째 검색 내용
+제목: GitHub Launches Free Copilot Plan for Visual Studio Code and Visual Studio Users
+주소: https://www.infoq.com/news/2024/12/github-copilot-free-vscode/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: GitHub has introduced a new free plan for GitHub Copilot in Visual Studio Code, offering 2,000 code completions and 50 chat messages per month without requiring a subscription or payment. The update integrates Copilot as a core feature in the editor, with new tools like Copilot Edits, Custom Instructions, and terminal chat. A similar free plan is also available for Visual Studio users.
+
+4번째 검색 내용
+제목: Azure AI Agent Service in Public Preview: Automation of Routine Tasks
+주소: https://www.infoq.com/news/2024/12/azure-ai-agent-service-preview/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Unveiling at Ignite, Microsoft's Azure AI Agent Service empowers developers to build and scale AI agents seamlessly. With secure integration, flexible use cases, and support for multiple frameworks, it automates workflows across platforms like Teams and Excel. Experience the future of business automation—innovate efficiently with Azure AI today!
+
+5번째 검색 내용
+제목: New MSSQL Extension for VS Code Promises Enhanced Developer Productivity
+주소: https://www.infoq.com/news/2024/12/mssql-vs-code-extension/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Microsoft enhances Visual Studio Code's MSSQL extension with comprehensive updates, introducing improved database connection, object exploration, and query analysis tools. The new version offers advanced UI features, streamlined table design, enhanced performance visualization, and expanded export capabilities for developers working with Azure SQL and SQL Server databases.
+
+6번째 검색 내용
+제목: PydanticAI: a New Python Framework for Streamlined Generative AI Development
+주소: https://www.infoq.com/news/2024/12/pydanticai-framework-gen-ai/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The team behind Pydantic, widely used for data validation in Python, has announced the release of PydanticAI, a Python-based agent framework designed to ease the development of production-ready Generative AI applications. Positioned as a potential competitor to LangChain, PydanticAI introduces a type-safe, model-agnostic approach inspired by the design principles of FastAPI.
+
+7번째 검색 내용
+제목: Key Takeaways from QCon & InfoQ Dev Summits with a Look ahead to 2025 Conferences
+주소: https://www.infoq.com/news/2024/12/takeaways-qcon-infoq-dev-summits/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: As we reflect on 2024, one thing is clear: senior developers, architects, and team leaders face challenges that benefit from real-world insights shared by other senior practitioners. This year, the InfoQ Dev Summits in Boston and Munich, and the QCon conferences in London and San Francisco provided curated topics and talks from software practitioners working through demanding challenges.
+
+8번째 검색 내용
+제목: Challenges of Creating iOS App Extensions at Lyft
+주소: https://www.infoq.com/news/2024/12/lyft-ios-maps-extension/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: In a recent article, Lyft engineers Artur Stepaniuk and Max Husar described how Lyft handles the complexity of creating an app extension for their iOS app without breaking the tight RAM and binary size constraints set by Apple nor impair user experience.
+
+9번째 검색 내용
+제목: OpenAI Releases Sora and Full Version of O1 Reasoning Model with Fine-Tuning
+주소: https://www.infoq.com/news/2024/12/openai-sora-o1-finetuning/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: OpenAI has unveiled its advanced o1 reasoning model and the video generation model Sora, enhancing complex reasoning and video creation capabilities. Sora produces high-quality videos using innovative diffusion techniques, while o1 excels in nuanced reasoning and safety. Together, they signal a transformative leap in AI, bridging creativity and rigorous reasoning.
+
+10번째 검색 내용
+제목: Post-Quantum Cryptography in Java
+주소: https://www.infoq.com/news/2024/12/java-post-quantum/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: A pair of new JEPs arriving in Java 24 provide an initial Post-Quantum Cryptography (PQC) capability in Java.
+
+11번째 검색 내용
+제목: Java News Roundup: Spring Framework, WildFly, Hibernate, EclipseStore, Piranha Cloud
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec09-2024/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: This week's Java roundup for December 9th, 2024 features news highlighting: point releases for the Spring Framework; the first beta release of WildFly 35; Hibernate ORM 7.0.0.Beta3, Hibernate Reactive 3.0.0.Beta1 and Hibernate Validator 9.0.0.RC1; and the release of EclipseStore 2.1 and Piranha Cloud 24.12.0.
+
+12번째 검색 내용
+제목: Google AI Agent Jules Aims at Helping Developers with Their GitHub-Based Workflows
+주소: https://www.infoq.com/news/2024/12/google-jules-agent/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Part of Gemini 2.0, Google has launched its new AI-based coding assistant in closed preview. Dubbed "Jules", the assistant aims at helping developers to work with Python and JavaScript issues and pull requests, handle bug fixes, and other related tasks.
+
+13번째 검색 내용
+제목: Amazon CloudFront Introduces Support for VPC Origins and Static IPs
+주소: https://www.infoq.com/news/2024/12/cloudfront-vpc-static-ips/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Ahead of re:Invent, AWS has announced that Amazon CloudFront now supports Anycast static IPs, providing a dedicated set of IP addresses for connecting to all CloudFront edge locations worldwide. Additionally, the new VPC origins feature enables developers to designate private resources within a VPC as origins, eliminating the need for public IP addresses or internet connectivity.
+
+14번째 검색 내용
+제목: Exploring AI's Role in Automating Software Testing
+주소: https://www.infoq.com/news/2024/12/AI-automated-software-testing/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: QA professionals are increasingly turning to AI to address the growing complexities of software testing. AI-driven automation can improve test coverage, reduce test cycle times, and enhance the accuracy of results, leading to faster software releases with higher quality.
+
+15번째 검색 내용
+제목: Amazon S3 Introduces Metadata Feature for Improved Data Management and Querying in Preview
+주소: https://www.infoq.com/news/2024/12/metadata-amazon-s3-buckets/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Amazon Web Services (AWS) has launched S3 Metadata, enhancing data management for S3 users. This new capability enables near real-time querying and analysis of S3 data via organized metadata updates. By adopting Apache Iceberg, it ensures interoperability and scalability, allowing businesses to efficiently leverage their data for analytics and AI applications.
+
