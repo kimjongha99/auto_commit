@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: .NET Community Toolkit 8.4: New MVVM Features, Enhanced Analyzers and Bug Fixes
+주소: https://www.infoq.com/news/2024/12/dotnet-community-toolkit-84/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: The .NET Community Toolkit has officially released version 8.4, introducing significant updates and improvements. The latest release includes support for partial properties in the MVVM Toolkit generators, new diagnostic analyzers, bug fixes, and other enhancements to facilitate development workflows.
+
+2번째 검색 내용
+제목: Google Launches Android XR, Its New AI-Powered Extended Reality Platform
+주소: https://www.infoq.com/news/2024/12/google-android-xr/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Android XR is Google's new operating system aimed at powering devices like headsets and glasses and making possible new experiences, a.k.a. apps, running on them. Android XR will integrate Gemini, Google's AI assistant, to enable understanding user intent, defining a plan, guiding through tasks, and more.
+
+3번째 검색 내용
+제목: OpenAI Announces ‘o3’ Reasoning Model
+주소: https://www.infoq.com/news/2024/12/openai-announces-o3/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: OpenAI has launched the O3 and O3 Mini models, setting a new standard in AI with enhanced reasoning capabilities. Notable achievements include 71.7% accuracy on SWE-Bench and 96.7% on the AIME benchmark. While these models excel in coding and mathematics, challenges remain. O3 Mini offers scalable options for developers, prioritizing safety and adaptability.
+
+4번째 검색 내용
+제목: AWS Outlines Its Post-Quantum Cryptography Migration Plan
+주소: https://www.infoq.com/news/2024/12/aws-post-quantum-cryptography/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: In a recent article on its security blog, AWS detailed its plan for migrating to post-quantum cryptography (PQC). The article addresses the challenges posed by PQC, outlines AWS's current progress in the migration process, and explains the impact on customers within the traditional shared responsibility model.
+
+5번째 검색 내용
+제목: Java News Roundup: TomEE 10, Struts 7, Payara Platform, GlassFish, Commonhaus Foundation, Gradle
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec16-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: This week's Java roundup for December 16th, 2024, features news highlighting: GA releases of Apache TomEE 10.0.0 and Apache Struts 7.0.0; the December 2024 release of the Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0, and SlateDB and Debezium join the Commonhaus Foundation.
+
+6번째 검색 내용
+제목: JetBrains' Webstorm IDE for JavaScript Development Now Free for Non-Commercial Purposes
+주소: https://www.infoq.com/news/2024/12/jetbrain-webstorm-free-license/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: JetBrains' IDE for JavaScript is now free for non-commercial use. Webstorm thus joins RustRover (Rust IDE) and Aqua (test automation IDE) to the list of JetBrain IDEs available under a non-commercial licensing model. Non-commercial free license users must agree to usage data collection to enjoy the same features as those with paid subscriptions, including AI-powered code completion.
+
+7번째 검색 내용
+제목: Spring News Roundup: Delivering Point Releases of Boot, Security, Authorization Server, Session
+주소: https://www.infoq.com/news/2024/12/spring-news-roundup-dec16-2024/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: There was a flurry of activity in the Spring ecosystem during the week of December 16th, 2024, highlighting point releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Shell.
+
+8번째 검색 내용
+제목: Google Willow Sets New Quantum Supremacy Milestone
+주소: https://www.infoq.com/news/2024/12/google-willow-quantum-supremacy/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Google has announced its new 105-qubit superconducting chip, code-named Willow, which solved a quantum supremacy experiment that would take at least 300 million years to simulate on a classical computer. More importantly, the chip shows how quantum hardware may achieve fault tolerance in such a way to seemingly unleash its scalability.
+
+9번째 검색 내용
+제목: Redis Creator 'antirez' Returns: Can He Shift Momentum away from Valkey?
+주소: https://www.infoq.com/news/2024/12/redis-antirez-back/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+
+10번째 검색 내용
+제목: GitHub Launches Free Copilot Plan for Visual Studio Code and Visual Studio Users
+주소: https://www.infoq.com/news/2024/12/github-copilot-free-vscode/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: GitHub has introduced a new free plan for GitHub Copilot in Visual Studio Code, offering 2,000 code completions and 50 chat messages per month without requiring a subscription or payment. The update integrates Copilot as a core feature in the editor, with new tools like Copilot Edits, Custom Instructions, and terminal chat. A similar free plan is also available for Visual Studio users.
+
+11번째 검색 내용
+제목: Azure AI Agent Service in Public Preview: Automation of Routine Tasks
+주소: https://www.infoq.com/news/2024/12/azure-ai-agent-service-preview/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Unveiling at Ignite, Microsoft's Azure AI Agent Service empowers developers to build and scale AI agents seamlessly. With secure integration, flexible use cases, and support for multiple frameworks, it automates workflows across platforms like Teams and Excel. Experience the future of business automation—innovate efficiently with Azure AI today!
+
+12번째 검색 내용
+제목: New MSSQL Extension for VS Code Promises Enhanced Developer Productivity
+주소: https://www.infoq.com/news/2024/12/mssql-vs-code-extension/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: Microsoft enhances Visual Studio Code's MSSQL extension with comprehensive updates, introducing improved database connection, object exploration, and query analysis tools. The new version offers advanced UI features, streamlined table design, enhanced performance visualization, and expanded export capabilities for developers working with Azure SQL and SQL Server databases.
+
+13번째 검색 내용
+제목: PydanticAI: a New Python Framework for Streamlined Generative AI Development
+주소: https://www.infoq.com/news/2024/12/pydanticai-framework-gen-ai/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: The team behind Pydantic, widely used for data validation in Python, has announced the release of PydanticAI, a Python-based agent framework designed to ease the development of production-ready Generative AI applications. Positioned as a potential competitor to LangChain, PydanticAI introduces a type-safe, model-agnostic approach inspired by the design principles of FastAPI.
+
+14번째 검색 내용
+제목: Key Takeaways from QCon & InfoQ Dev Summits with a Look ahead to 2025 Conferences
+주소: https://www.infoq.com/news/2024/12/takeaways-qcon-infoq-dev-summits/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: As we reflect on 2024, one thing is clear: senior developers, architects, and team leaders face challenges that benefit from real-world insights shared by other senior practitioners. This year, the InfoQ Dev Summits in Boston and Munich, and the QCon conferences in London and San Francisco provided curated topics and talks from software practitioners working through demanding challenges.
+
+15번째 검색 내용
+제목: Challenges of Creating iOS App Extensions at Lyft
+주소: https://www.infoq.com/news/2024/12/lyft-ios-maps-extension/?topicPageSponsorship=d44a6abf-cdfe-4f41-b43a-b99153ea03f1
+설명: In a recent article, Lyft engineers Artur Stepaniuk and Max Husar described how Lyft handles the complexity of creating an app extension for their iOS app without breaking the tight RAM and binary size constraints set by Apple nor impair user experience.
+
