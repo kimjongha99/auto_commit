@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: After Rome Failure, VoidZero is the Newest Attempt to Create Unified JavaScript Toolchain
+주소: https://www.infoq.com/news/2024/12/voidzero-unified-js-toolchain/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Evan You, creator of the Vue web framework, announced  VoidZero, a company dedicated to building a unified development toolchain for the JavaScript ecosystem. You posits that VoidZero may succeed where Rome, a project with similar goals, failed as it inherits the large user base from the popular Vite toolchain. While VoidZero would release open-source software, the company itself is VC-funded.
+
+2번째 검색 내용
+제목: How Meta Ported Million Lines of Android Code from Java to Kotlin
+주소: https://www.infoq.com/news/2024/12/meta-java-kotlin-port/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: In order to maximize the benefits brought by Kotlin in terms of productivity and safety, Meta engineers have been hard at work to translate their 10 million line Android codebase from Java into Kotlin. One year into this process, they have ported approximately half of their codebase and developed a specific tool, Kotlinator, to automate the process as much as possible.
+
+3번째 검색 내용
+제목: Google Cloud Launches Sixth Generation Trillium TPUs: More Performance, Scalability and Efficiency
+주소: https://www.infoq.com/news/2024/12/google-trillium-tpu-is-ga/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Google Cloud's Trillium, its sixth-generation TPU, is now available. It enhances AI workloads with unmatched performance and 67% better energy efficiency. Integral to the AI Hypercomputer, Trillium boasts training speeds over 4x faster and triples inference throughput. This leap positions Google as a contender against Nvidia in the AI data center market.
+
+4번째 검색 내용
+제목: .NET Community Toolkit 8.4: New MVVM Features, Enhanced Analyzers and Bug Fixes
+주소: https://www.infoq.com/news/2024/12/dotnet-community-toolkit-84/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The .NET Community Toolkit has officially released version 8.4, introducing significant updates and improvements. The latest release includes support for partial properties in the MVVM Toolkit generators, new diagnostic analyzers, bug fixes, and other enhancements to facilitate development workflows.
+
+5번째 검색 내용
+제목: Google Launches Android XR, Its New AI-Powered Extended Reality Platform
+주소: https://www.infoq.com/news/2024/12/google-android-xr/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Android XR is Google's new operating system aimed at powering devices like headsets and glasses and making possible new experiences, a.k.a. apps, running on them. Android XR will integrate Gemini, Google's AI assistant, to enable understanding user intent, defining a plan, guiding through tasks, and more.
+
+6번째 검색 내용
+제목: OpenAI Announces ‘o3’ Reasoning Model
+주소: https://www.infoq.com/news/2024/12/openai-announces-o3/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: OpenAI has launched the O3 and O3 Mini models, setting a new standard in AI with enhanced reasoning capabilities. Notable achievements include 71.7% accuracy on SWE-Bench and 96.7% on the AIME benchmark. While these models excel in coding and mathematics, challenges remain. O3 Mini offers scalable options for developers, prioritizing safety and adaptability.
+
+7번째 검색 내용
+제목: AWS Outlines Its Post-Quantum Cryptography Migration Plan
+주소: https://www.infoq.com/news/2024/12/aws-post-quantum-cryptography/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: In a recent article on its security blog, AWS detailed its plan for migrating to post-quantum cryptography (PQC). The article addresses the challenges posed by PQC, outlines AWS's current progress in the migration process, and explains the impact on customers within the traditional shared responsibility model.
+
+8번째 검색 내용
+제목: Java News Roundup: TomEE 10, Struts 7, Payara Platform, GlassFish, Commonhaus Foundation, Gradle
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec16-2024/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: This week's Java roundup for December 16th, 2024, features news highlighting: GA releases of Apache TomEE 10.0.0 and Apache Struts 7.0.0; the December 2024 release of the Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0, and SlateDB and Debezium join the Commonhaus Foundation.
+
+9번째 검색 내용
+제목: JetBrains' Webstorm IDE for JavaScript Development Now Free for Non-Commercial Purposes
+주소: https://www.infoq.com/news/2024/12/jetbrain-webstorm-free-license/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: JetBrains' IDE for JavaScript is now free for non-commercial use. Webstorm thus joins RustRover (Rust IDE) and Aqua (test automation IDE) to the list of JetBrain IDEs available under a non-commercial licensing model. Non-commercial free license users must agree to usage data collection to enjoy the same features as those with paid subscriptions, including AI-powered code completion.
+
+10번째 검색 내용
+제목: Spring News Roundup: Delivering Point Releases of Boot, Security, Authorization Server, Session
+주소: https://www.infoq.com/news/2024/12/spring-news-roundup-dec16-2024/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: There was a flurry of activity in the Spring ecosystem during the week of December 16th, 2024, highlighting point releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Shell.
+
+11번째 검색 내용
+제목: Google Willow Sets New Quantum Supremacy Milestone
+주소: https://www.infoq.com/news/2024/12/google-willow-quantum-supremacy/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Google has announced its new 105-qubit superconducting chip, code-named Willow, which solved a quantum supremacy experiment that would take at least 300 million years to simulate on a classical computer. More importantly, the chip shows how quantum hardware may achieve fault tolerance in such a way to seemingly unleash its scalability.
+
+12번째 검색 내용
+제목: Redis Creator 'antirez' Returns: Can He Shift Momentum away from Valkey?
+주소: https://www.infoq.com/news/2024/12/redis-antirez-back/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+
+13번째 검색 내용
+제목: GitHub Launches Free Copilot Plan for Visual Studio Code and Visual Studio Users
+주소: https://www.infoq.com/news/2024/12/github-copilot-free-vscode/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: GitHub has introduced a new free plan for GitHub Copilot in Visual Studio Code, offering 2,000 code completions and 50 chat messages per month without requiring a subscription or payment. The update integrates Copilot as a core feature in the editor, with new tools like Copilot Edits, Custom Instructions, and terminal chat. A similar free plan is also available for Visual Studio users.
+
+14번째 검색 내용
+제목: Azure AI Agent Service in Public Preview: Automation of Routine Tasks
+주소: https://www.infoq.com/news/2024/12/azure-ai-agent-service-preview/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Unveiling at Ignite, Microsoft's Azure AI Agent Service empowers developers to build and scale AI agents seamlessly. With secure integration, flexible use cases, and support for multiple frameworks, it automates workflows across platforms like Teams and Excel. Experience the future of business automation—innovate efficiently with Azure AI today!
+
+15번째 검색 내용
+제목: New MSSQL Extension for VS Code Promises Enhanced Developer Productivity
+주소: https://www.infoq.com/news/2024/12/mssql-vs-code-extension/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Microsoft enhances Visual Studio Code's MSSQL extension with comprehensive updates, introducing improved database connection, object exploration, and query analysis tools. The new version offers advanced UI features, streamlined table design, enhanced performance visualization, and expanded export capabilities for developers working with Azure SQL and SQL Server databases.
+
