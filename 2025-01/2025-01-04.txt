@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Improving Threads' iOS Performance at Meta
+주소: https://www.infoq.com/news/2025/01/meta-threads-ios-performance/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: An app's performance is key to make users want to use it, say Meta engineers Dave LaMacchia and Jason Patterson. This includes making it lightning-fast, battery-efficient, and reliable across a range of devices and connectivity conditions. In a recent article, they recounted their experience with the Threads app.
+
+2번째 검색 내용
+제목: LLaMA-Mesh: NVIDIA’s Breakthrough in Unifying 3D Mesh Generation and Language Models
+주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: NVIDIA researchers have introduced LLaMA-Mesh, a groundbreaking approach that extends large language models (LLMs) to generate and interpret 3D mesh data in a unified, text-based framework. LLaMA-Mesh tokenizes 3D meshes as plain text, enabling the seamless integration of spatial and textual information.
+
+3번째 검색 내용
+제목: Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
+주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Cloudflare has recently published the fifth edition of its Radar Year in Review, a report analyzing data from the global hyperscaler network. The results reveal a 17.2% increase in global internet traffic, with notable growth in mobile and IPv6 requests. Additionally, Go overtook Node.js as the most popular language for automated API requests and GitHub Copilot saw significant growth.
+
+4번째 검색 내용
+제목: OpenSilver 3.1 Brings XAML Cross-Platform Designer
+주소: https://www.infoq.com/news/2024/12/opensilver-3-1-xaml/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The latest version of OpenSilver 3.1, a remake of Microsoft's retired Silverlight web application framework, extends the visual designer launched in July to non-Windows platforms. It also includes support for .NET 9 and some WPF-specific features.
+
+5번째 검색 내용
+제목: AWS Adds News Amazon Q Developer Agent Capabilities: Doc Generation, Code Reviews, and Unit Tests
+주소: https://www.infoq.com/news/2024/12/new-amazon-q-developer-agent/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: AWS has enhanced its generative AI-powered Amazon Q Developer, streamlining software development with new agent capabilities. Key features include automated documentation, code reviews, and unit test generation, allowing developers to focus on coding. Available in all AWS Regions, Amazon Q Developer simplifies processes in IDEs like Visual Studio Code and IntelliJ IDEA.
+
+6번째 검색 내용
+제목: Microsoft Introduces Serverless GPUs on Azure Container Apps in Public Preview
+주소: https://www.infoq.com/news/2024/12/azure-container-apps-gpu/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Discover the power of Azure Container Apps with serverless GPUs, now in public preview! Leverage NVIDIA A100 and T4 GPUs for real-time AI inferencing and machine learning, all without infrastructure management. Enjoy scale-to-zero capabilities and per-second billing, optimizing both performance and costs. Unlock innovation with seamless Azure integration!
+
+7번째 검색 내용
+제목: Deno 2 Released, Focuses on Interoperability with Legacy JavaScript Infrastructure and Use at Scale
+주소: https://www.infoq.com/news/2024/12/deno-2-released/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The Deno team recently released Deno 2. According to the team, Deno 2 provides seamless interoperability with legacy JavaScript infrastructure, a stabilized standard library, a modern registry for sharing JavaScript libraries across runtimes, and more.
+
+8번째 검색 내용
+제목: Flutter 3.27 Promotes New Rendering Engine Impeller, Improves iOS and Material Widgets, and More
+주소: https://www.infoq.com/news/2024/12/flutter-3-27-released/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Flutter 3.27, brings a wealth of changes, including better adherence to Apple's UI Guidelines thanks to a number of improved Cupertino widgets, new features for CarouselView, list rows and columns, ModalRoutes transitions, and so on. Furthermore, the new release makes the Impeller rendering engine the default, with improved performance, instrumentation support, concurrency support, and more.
+
+9번째 검색 내용
+제목: Java News Roundup: Spring AI 1.0-M5, LangChain4j 1.0-Alpha1, Grails 7.0-M1, JHipster 8.8
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec23-2024/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: This week's Java roundup for December 23rd, 2024, features news highlighting: the fifth milestone release of Spring AI 1.0; the first milestone release of Grails 7.0; the first alpha release of LangChain4j 1.0; and the release of JHipster 8.8.
+
+10번째 검색 내용
+제목: Kubernetes 1.32 Released with Dynamic Resource Allocation and Graceful Shutdown of Windows Nodes
+주소: https://www.infoq.com/news/2024/12/kubernetes-1-32/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.32, named Penelope a few weeks ago. The new release introduced support for the Graceful Shutdown of Windows Nodes, new status endpoints for core components, and asynchronous preemptions in the Kubernetes scheduler.
+
+11번째 검색 내용
+제목: After Rome Failure, VoidZero is the Newest Attempt to Create Unified JavaScript Toolchain
+주소: https://www.infoq.com/news/2024/12/voidzero-unified-js-toolchain/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Evan You, creator of the Vue web framework, announced  VoidZero, a company dedicated to building a unified development toolchain for the JavaScript ecosystem. You posits that VoidZero may succeed where Rome, a project with similar goals, failed as it inherits the large user base from the popular Vite toolchain. While VoidZero would release open-source software, the company itself is VC-funded.
+
+12번째 검색 내용
+제목: How Meta Ported Million Lines of Android Code from Java to Kotlin
+주소: https://www.infoq.com/news/2024/12/meta-java-kotlin-port/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: In order to maximize the benefits brought by Kotlin in terms of productivity and safety, Meta engineers have been hard at work to translate their 10 million line Android codebase from Java into Kotlin. One year into this process, they have ported approximately half of their codebase and developed a specific tool, Kotlinator, to automate the process as much as possible.
+
+13번째 검색 내용
+제목: Google Cloud Launches Sixth Generation Trillium TPUs: More Performance, Scalability and Efficiency
+주소: https://www.infoq.com/news/2024/12/google-trillium-tpu-is-ga/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: Google Cloud's Trillium, its sixth-generation TPU, is now available. It enhances AI workloads with unmatched performance and 67% better energy efficiency. Integral to the AI Hypercomputer, Trillium boasts training speeds over 4x faster and triples inference throughput. This leap positions Google as a contender against Nvidia in the AI data center market.
+
+14번째 검색 내용
+제목: .NET Community Toolkit 8.4: New MVVM Features, Enhanced Analyzers and Bug Fixes
+주소: https://www.infoq.com/news/2024/12/dotnet-community-toolkit-84/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: The .NET Community Toolkit has officially released version 8.4, introducing significant updates and improvements. The latest release includes support for partial properties in the MVVM Toolkit generators, new diagnostic analyzers, bug fixes, and other enhancements to facilitate development workflows.
+
+15번째 검색 내용
+제목: Dive Deep into Merge Requests with GitLab Duo Chat
+주소: https://www.infoq.com/news/2024/12/gitlab-duo-chat-merge-request/?topicPageSponsorship=40228c7b-4848-4e92-a618-a2832505b0ba
+설명: GitLab recently discussed Duo Chat, a new chat assistant designed to make code reviews easier for developers and reviewers. This feature, available with GitLab Duo Ultimate and Enterprise, helps engineers understand code changes, follow discussions, and track dependencies, while ensuring high-quality code.
+
