@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Why Software Developers Need to Build Their Personal Brand
+주소: https://www.infoq.com/news/2025/01/software-developers-brand/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Growing your personal brand can improve your credibility, give you greater impact, and lead to better opportunities, Pablo Fredrikson said at QCon San Francisco. As a staff plus engineer, helping others solve problems creates value for the company. His advice is to find out what you are passionate about, learn more about it, get better at it, and share it, to build your personal brand over time.
+
+2번째 검색 내용
+제목: Java News Roundup: WildFly 35, Jakarta EE 11 Update, Java Operator SDK 5.0-RC1
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan06-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for January 6th, 2025, features news highlighting: the release of WildFly 35; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; and an update on Jakarta EE 11.
+
+3번째 검색 내용
+제목: Google Expands Gemini Code Assist with Support for Atlassian, GitHub, and GitLab
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Google recently announced support for third-party tools in Gemini Code Assist, including Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, and Snyk. The private preview enables developers to test the integration of widely-used software tools with the personal AI assistant directly within the IDE.
+
+4번째 검색 내용
+제목: Express 5.0 Released, Focuses on Stability and Security
+주소: https://www.infoq.com/news/2025/01/express-5-released/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: The Express.js team has released version 5.0.0, 10 years after the first major version release in 2014. The release focuses on stability and security with a view to enabling developers to write more robust Node.js applications.
+
+5번째 검색 내용
+제목: vlt Introduces New JavaScript Package Manager and Serverless Registry
+주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
+
+6번째 검색 내용
+제목: Amazon Launches High Memory U7inh EC2 Instance for Enhanced SAP HANA Workloads
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS has unveiled the Amazon EC2 High Memory U7inh instance, a game-changer for mission-critical in-memory databases like SAP HANA, offering 32 TB of memory and 1,920 vCPUs. Designed with HPE, it doubles the performance of previous models, ensuring seamless integration in AWS. Maximize your SAP workloads in the cloud with enhanced speed and scalability.
+
+7번째 검색 내용
+제목: DX Unveils New Framework for Measuring Developer Productivity
+주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Software development intelligence platform DX has introduced a new framework named DX Core 4, designed to help engineering leaders measure and improve developer productivity. The framework aims to simplify this task by building on older established frameworks like the DORA metrics and SPACE.
+
+8번째 검색 내용
+제목: Java News Roundup: GlassFish, Spring AI MCP, Grails, Helidon, JReleaser, Resilience4j, Arquillian
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's relatively quiet Java roundup for December 30th, 2024 features news highlighting: GlassFish 7.0.21; Spring AI MCP 0.4.0 and 0.3.0; Grails 6.2.3; Helidon 4.1.6; JReleaser 1.16.0; Resilience4j 2.3.0; and Arquillian 1.9.2.Final.
+
+9번째 검색 내용
+제목: Jakarta EE Working Group Delivers Core Profile for Jakarta EE 11
+주소: https://www.infoq.com/news/2025/01/jakarta-ee-11-core-profile/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: What was originally planned for a full GA release of Jakarta EE 11 in July 2024, only the Core Profile was delivered in December 2024, 27 months after the release of Jakarta EE 10. The Platform and Web Profile will most-likely be released in 1Q2025. While some may characterize this as "just another significant delay," there were practical reasons for the change.
+
+10번째 검색 내용
+제목: .NET Application Porting with Amazon Q Developer AI-Powered Transformation Capabilities
+주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS has launched Amazon Q Developer's generative AI capabilities, enabling .NET Framework applications to transition to cross-platform .NET up to four times faster, reducing licensing costs by 40%. With user-friendly automation, developers can modernize code and streamline compliance while leveraging the latest innovations.
+
+11번째 검색 내용
+제목: AWS Introduces S3 Tables Bucket: Is S3 Becoming a Data Lakehouse?
+주소: https://www.infoq.com/news/2025/01/s3-tables-bucket/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS has recently announced S3 Tables Bucket, managed Apache Iceberg tables optimized for analytics workloads. According to the cloud provider, the new option delivers up to 3x faster query performance and up to 10x higher transaction rates for Apache Iceberg tables compared to standard S3 storage.
+
+12번째 검색 내용
+제목: Improving Threads' iOS Performance at Meta
+주소: https://www.infoq.com/news/2025/01/meta-threads-ios-performance/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: An app's performance is key to make users want to use it, say Meta engineers Dave LaMacchia and Jason Patterson. This includes making it lightning-fast, battery-efficient, and reliable across a range of devices and connectivity conditions. In a recent article, they recounted their experience with the Threads app.
+
+13번째 검색 내용
+제목: LLaMA-Mesh: NVIDIA’s Breakthrough in Unifying 3D Mesh Generation and Language Models
+주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: NVIDIA researchers have introduced LLaMA-Mesh, a groundbreaking approach that extends large language models (LLMs) to generate and interpret 3D mesh data in a unified, text-based framework. LLaMA-Mesh tokenizes 3D meshes as plain text, enabling the seamless integration of spatial and textual information.
+
+14번째 검색 내용
+제목: Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
+주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Cloudflare has recently published the fifth edition of its Radar Year in Review, a report analyzing data from the global hyperscaler network. The results reveal a 17.2% increase in global internet traffic, with notable growth in mobile and IPv6 requests. Additionally, Go overtook Node.js as the most popular language for automated API requests and GitHub Copilot saw significant growth.
+
+15번째 검색 내용
+제목: OpenSilver 3.1 Brings XAML Cross-Platform Designer
+주소: https://www.infoq.com/news/2024/12/opensilver-3-1-xaml/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: The latest version of OpenSilver 3.1, a remake of Microsoft's retired Silverlight web application framework, extends the visual designer launched in July to non-Windows platforms. It also includes support for .NET 9 and some WPF-specific features.
+
