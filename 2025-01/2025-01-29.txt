@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Java News Roundup: Stable Values, Payara Platform, Oracle Critical Patch Update, GraalVM, BellSoft
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan20-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for January 20th, 2025 features news highlighting: JEP 502, Stable Values (Preview); Oracle's Critical Patch Update (CPU) for January 2025; the January 2025 release of the Payara Platform; GraalVM for JDK 23 Community 23.0.2; and BellSoft CPU patches for Liberica JDK.
+
+2번째 검색 내용
+제목: Spring News Roundup: Milestone Releases of Boot, Framework, Data, Security, Integration, Modulith
+주소: https://www.infoq.com/news/2025/01/spring-news-roundup-jan20-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: There was a flurry of activity in the Spring ecosystem during the week of January 20th, 2025, highlighting milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration and Spring Modulith.
+
+3번째 검색 내용
+제목: Vite 6 Released: New Environment API Helps Supporting Edge Use Cases
+주소: https://www.infoq.com/news/2025/01/vite-6-environment-api/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: The Vite team recently announced Vite 6, which they labeled as a significant major release. Vite 6 introduces the Environment API, a feature that targets framework authors. With the Environment API, authors may for instance support edge deployment cases and offer a dev experience closer to that of production.
+
+4번째 검색 내용
+제목: Nvidia Ingest Aims to Make it Easier to Extract Structured Information from Documents
+주소: https://www.infoq.com/news/2025/01/nvidia-ingest-document-extract/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Nvidia Ingest is a new microservice aimed at processing document content and extracting metadata into a well-defined JSON schema. Ingest is able to process PDFs, Word, and PowerPoint documents and extract structured information from tables, charts, images, and text using optical character recognition.
+
+5번째 검색 내용
+제목: Microsoft Research AI Frontiers Lab Launches AutoGen v0.4 Library
+주소: https://www.infoq.com/news/2025/01/microsoft-autogen-040/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Microsoft Research’s AI Frontiers Lab has announced the release of AutoGen version 0.4, an open-source framework designed to build advanced AI agent systems. This latest version as stated marks the complete redesign of the AutoGen library, focusing on enhancing code quality, robustness, usability, and the scalability of agent workflows.
+
+6번째 검색 내용
+제목: Google Vertex AI Provides RAG Engine for Large Language Model Grounding
+주소: https://www.infoq.com/news/2025/01/google-vertes-ai-rag-engine/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Vertex AI RAG Engine is a managed orchestration service aimed to make it easier to connect large language models (LLMs) to external data sources to be more up-to-date, generate more relevant responses, and hallucinate less.
+
+7번째 검색 내용
+제목: Java News Roundup: JDK 24 in Rampdown Phase Two, Spring Framework, JobRunr, Commonhaus Foundation
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan13-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for January 13th, 2025, features news highlighting: JDK 24 in Rampdown Phase Two; Spring Framework 6.2.2; JobRunr 7.4.0; Micrometer Metrics 1.15.0-M1 and Micrometer Tracing 1.5.0-M1; and Infinispan joins the Commonhaus Foundation.
+
+8번째 검색 내용
+제목: Android Studio Ladybug Update Adds Gemini Support, New Debugging Features, and More
+주소: https://www.infoq.com/news/2025/01/android-studio-ladybug-features/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: In its recent update to Android Studio Ladybug (2024.2.2), Google has added new Gemini Code Transforms to modify, refactor, or create code, debugging and testing tools, and developer experience improvements. Additionally, the IDE adopts the latest IntelliJ 2024.2 platform release.
+
+9번째 검색 내용
+제목: Deep Dive into Microservices, LLMs, and Team Topologies at QCon London 2025 Training
+주소: https://www.infoq.com/news/2025/01/microservices-llms-topologies/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Upskill on essential software development practices with hands-on sessions led by practitioners at QCon London 2025. Join hands-on training on microservices, LLMs, team topologies, Java applications & more. Save 20% on training with promo code PROMO20TrainingQUK25 by January 29.
+
+10번째 검색 내용
+제목: Why Software Developers Need to Build Their Personal Brand
+주소: https://www.infoq.com/news/2025/01/software-developers-brand/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Growing your personal brand can improve your credibility, give you greater impact, and lead to better opportunities, Pablo Fredrikson said at QCon San Francisco. As a staff plus engineer, helping others solve problems creates value for the company. His advice is to find out what you are passionate about, learn more about it, get better at it, and share it, to build your personal brand over time.
+
+11번째 검색 내용
+제목: Java News Roundup: WildFly 35, Jakarta EE 11 Update, Java Operator SDK 5.0-RC1
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan06-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for January 6th, 2025, features news highlighting: the release of WildFly 35; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; and an update on Jakarta EE 11.
+
+12번째 검색 내용
+제목: Google Expands Gemini Code Assist with Support for Atlassian, GitHub, and GitLab
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Google recently announced support for third-party tools in Gemini Code Assist, including Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, and Snyk. The private preview enables developers to test the integration of widely-used software tools with the personal AI assistant directly within the IDE.
+
+13번째 검색 내용
+제목: Express 5.0 Released, Focuses on Stability and Security
+주소: https://www.infoq.com/news/2025/01/express-5-released/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: The Express.js team has released version 5.0.0, 10 years after the first major version release in 2014. The release focuses on stability and security with a view to enabling developers to write more robust Node.js applications.
+
+14번째 검색 내용
+제목: vlt Introduces New JavaScript Package Manager and Serverless Registry
+주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
+
+15번째 검색 내용
+제목: Amazon Launches High Memory U7inh EC2 Instance for Enhanced SAP HANA Workloads
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS has unveiled the Amazon EC2 High Memory U7inh instance, a game-changer for mission-critical in-memory databases like SAP HANA, offering 32 TB of memory and 1,920 vCPUs. Designed with HPE, it doubles the performance of previous models, ensuring seamless integration in AWS. Maximize your SAP workloads in the cloud with enhanced speed and scalability.
+
