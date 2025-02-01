@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: AWS Glue 5.0 Introduces Spark 3.5.2 and Enhanced ETL Performance
+주소: https://www.infoq.com/news/2025/01/aws-glue-5-etl/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: At the latest re:Invent conference in Las Vegas, Amazon announced the general availability of AWS Glue 5.0, designed to accelerate ETL jobs powered by Apache Spark. The latest release of the serverless data integration service introduces upgraded runtimes, including Spark 3.5.2, Python 3.11, and Java 17, along with enhancements in performance and security.
+
+2번째 검색 내용
+제목: JetBrains AI Coding Agent Junie Provides Tight Integration with JetBrains IDEs
+주소: https://www.infoq.com/news/2025/01/jetbrains-junie-agent/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: JetBrains has announced Junie, its new AI coding agent, in closed preview. Junie, says the company, is able to carry through the coding tasks you assign it and leverage the knowledge about your project context as available in the IDE.
+
+3번째 검색 내용
+제목: Git 2.48: Modernized with Meson Build System, Memory Leaks Fixed
+주소: https://www.infoq.com/news/2025/01/git-modernized-meson-build/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Git 2.48 now supports the Meson build system, a modern alternative to the existing Makefile, Autoconf, and CMake-based systems. This change addresses limitations in IDE support and maintenance issues with older systems.
+
+4번째 검색 내용
+제목: Fluent Assertions Library v8 Abandons Apache Licensing
+주소: https://www.infoq.com/news/2025/01/fluent-assertions-v8-license/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Fluent Assertions, a well-known .NET library that allows expressive asserts in unit tests, has launched version 8 with a proprietary license in partnership with Xceed, replacing the existing Apache 2.0 licence. The new license allows free non-commercial use, but any commercial use will require a paid license. The move has been negatively received by the developer community.
+
+5번째 검색 내용
+제목: Apple New In-App Purchases API for Creator Platforms and Large Catalogs
+주소: https://www.infoq.com/news/2025/01/apple-advanced-commerce-api/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Apple's new Advanced Commerce API provides iOS developers more flexibility to dynamically manage large content catalogs, creator experiences, and subscriptions with optional add-ons, such as premium features. For a developer to be allowed to use the new API, they must request access to Apple.
+
+6번째 검색 내용
+제목: Build Resilient Systems with Insights on AI, Multi-Cloud, Leadership & Security at QCon London 2025
+주소: https://www.infoq.com/news/2025/01/qcon-london-2025-tracks/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: From AI and ML to cloud, leadership, and modern data strategies, QCon London 2025, April 7-11, features 15 tracks of insights from 125+ senior practitioners. Discover practical solutions to scaling architectures, enhancing productivity, securing supply chains, and integrating cutting-edge technologies - all through real-world examples and actionable takeaways.
+
+7번째 검색 내용
+제목: Kubernetes Cloud Repatriation Saves Millions for Data Platform Provider
+주소: https://www.infoq.com/news/2025/01/yellowbrick-cloud-repatriation/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Yellowbrick, an SQL data platform provider, has significantly reduced costs by moving workloads from the public cloud to its own private Kubernetes-based infrastructure. It has reported an annual saving of $3.9 million by moving its development and testing environments away from AWS, Azure, and Google Cloud Platform.
+
+8번째 검색 내용
+제목: Java News Roundup: Stable Values, Payara Platform, Oracle Critical Patch Update, GraalVM, BellSoft
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan20-2025/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: This week's Java roundup for January 20th, 2025, features news highlighting: JEP 502, Stable Values (Preview); Oracle's Critical Patch Update (CPU) for January 2025; the January 2025 release of the Payara Platform; GraalVM for JDK 23 Community 23.0.2; and BellSoft CPU patches for Liberica JDK.
+
+9번째 검색 내용
+제목: Spring News Roundup: Milestone Releases of Boot, Framework, Data, Security, Integration, Modulith
+주소: https://www.infoq.com/news/2025/01/spring-news-roundup-jan20-2025/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: There was a flurry of activity in the Spring ecosystem during the week of January 20th, 2025, highlighting milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration and Spring Modulith.
+
+10번째 검색 내용
+제목: Vite 6 Released: New Environment API Helps Supporting Edge Use Cases
+주소: https://www.infoq.com/news/2025/01/vite-6-environment-api/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: The Vite team recently announced Vite 6, which they labeled as a significant major release. Vite 6 introduces the Environment API, a feature that targets framework authors. With the Environment API, authors may for instance support edge deployment cases and offer a dev experience closer to that of production.
+
+11번째 검색 내용
+제목: Nvidia Ingest Aims to Make it Easier to Extract Structured Information from Documents
+주소: https://www.infoq.com/news/2025/01/nvidia-ingest-document-extract/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Nvidia Ingest is a new microservice aimed at processing document content and extracting metadata into a well-defined JSON schema. Ingest is able to process PDFs, Word, and PowerPoint documents and extract structured information from tables, charts, images, and text using optical character recognition.
+
+12번째 검색 내용
+제목: Microsoft Research AI Frontiers Lab Launches AutoGen v0.4 Library
+주소: https://www.infoq.com/news/2025/01/microsoft-autogen-040/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Microsoft Research’s AI Frontiers Lab has announced the release of AutoGen version 0.4, an open-source framework designed to build advanced AI agent systems. This latest version as stated marks the complete redesign of the AutoGen library, focusing on enhancing code quality, robustness, usability, and the scalability of agent workflows.
+
+13번째 검색 내용
+제목: Google Vertex AI Provides RAG Engine for Large Language Model Grounding
+주소: https://www.infoq.com/news/2025/01/google-vertes-ai-rag-engine/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: Vertex AI RAG Engine is a managed orchestration service aimed to make it easier to connect large language models (LLMs) to external data sources to be more up-to-date, generate more relevant responses, and hallucinate less.
+
+14번째 검색 내용
+제목: Java News Roundup: JDK 24 in Rampdown Phase Two, Spring Framework, JobRunr, Commonhaus Foundation
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan13-2025/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: This week's Java roundup for January 13th, 2025, features news highlighting: JDK 24 in Rampdown Phase Two; Spring Framework 6.2.2; JobRunr 7.4.0; Micrometer Metrics 1.15.0-M1 and Micrometer Tracing 1.5.0-M1; and Infinispan joins the Commonhaus Foundation.
+
+15번째 검색 내용
+제목: Android Studio Ladybug Update Adds Gemini Support, New Debugging Features, and More
+주소: https://www.infoq.com/news/2025/01/android-studio-ladybug-features/?topicPageSponsorship=de15893b-1299-4578-aee5-6ec72bfbe879
+설명: In its recent update to Android Studio Ladybug (2024.2.2), Google has added new Gemini Code Transforms to modify, refactor, or create code, debugging and testing tools, and developer experience improvements. Additionally, the IDE adopts the latest IntelliJ 2024.2 platform release.
+
