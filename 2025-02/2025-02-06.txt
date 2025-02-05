@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: DeepSeek Database Leaking Sensitive Information Highlights AI Security Risks
+주소: https://www.infoq.com/news/2025/02/deepsek-exposed-database/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Cloud security firm Wiz uncovered unprotected DeepSeek database giving full control over database operations and access to internal data including millions of lines of chat logs. While the vulnerability has been quickly fixed, the incident shows the need for the AI industry to enforce higher security standards, says the company.
+
+2번째 검색 내용
+제목: Block Launches Open-Source AI Framework Codename Goose
+주소: https://www.infoq.com/news/2025/02/codename-goose/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Block’s Open Source Program Office has launched Codename Goose, an open-source, non-commercial AI agent framework designed to automate tasks and integrate seamlessly with existing tools. Goose provides users with a flexible, on-machine AI assistant that can be customized through extensions, enabling developers and other professionals to enhance their productivity.
+
+3번째 검색 내용
+제목: Java News Roundup: Java Operator SDK 5.0, Open Liberty, Quarkus MCP, Vert.x, JBang, TornadoVM
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-jan27-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: This week's Java roundup for January 27th, 2025 features news highlighting: the GA release of Java Operator SDK 5.0; the January 2025 release of Open Liberty; an implementation of Model Context Protocol in Quarkus; the fourth milestone release of Vert.x 5.0; and point releases of JBang 0.123.0 and TornadoVM 1.0.10.
+
+4번째 검색 내용
+제목: Debezium Joins the Commonhaus Foundation
+주소: https://www.infoq.com/news/2025/02/debezium-joins-commonhaus/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: The Debezium project recently completed its move to the Commonhaus Foundation after consulting with the Debezium community and Red Hat, who exclusively sponsored the project since the start in 2015.
+
+5번째 검색 내용
+제목: Google's Vertex AI in Firebase SDK Now Ready for Production Use
+주소: https://www.infoq.com/news/2025/02/google-vertex-ai-sdk-production/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Three months after its launch in beta, the Vertex AI in Firebase SDK is now ready for production, says Google engineer Thomas Ezan, who further explores three dimensions that are essential for its successful deployment to production: abuse prevention, remote configuration, and responsible AI use.
+
+6번째 검색 내용
+제목: Cloudflare Open Sources Documentation and Adopts Astro for Better Scalability
+주소: https://www.infoq.com/news/2025/02/cloudflare-documentation-astro/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Cloudflare recently published an article detailing their upgrade of developer documentation by migrating from Hugo to the Astro ecosystem. All Cloudflare documentation is open source on GitHub, with opportunities for community contributions.
+
+7번째 검색 내용
+제목: AWS Glue 5.0 Introduces Spark 3.5.2 and Enhanced ETL Performance
+주소: https://www.infoq.com/news/2025/01/aws-glue-5-etl/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: At the latest re:Invent conference in Las Vegas, Amazon announced the general availability of AWS Glue 5.0, designed to accelerate ETL jobs powered by Apache Spark. The latest release of the serverless data integration service introduces upgraded runtimes, including Spark 3.5.2, Python 3.11, and Java 17, along with enhancements in performance and security.
+
+8번째 검색 내용
+제목: JetBrains AI Coding Agent Junie Provides Tight Integration with JetBrains IDEs
+주소: https://www.infoq.com/news/2025/01/jetbrains-junie-agent/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: JetBrains has announced Junie, its new AI coding agent, in closed preview. Junie, says the company, is able to carry through the coding tasks you assign it and leverage the knowledge about your project context as available in the IDE.
+
+9번째 검색 내용
+제목: DeepSeek Release Another Open-Source AI Model, Janus Pro
+주소: https://www.infoq.com/news/2025/01/deepseek-ai-janus/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: DeepSeek has released Janus-Pro, an updated version of its multimodal model, Janus. The new model improves training strategies, data scaling, and model size, enhancing multimodal understanding and text-to-image generation.
+
+10번째 검색 내용
+제목: Git 2.48: Modernized with Meson Build System, Memory Leaks Fixed
+주소: https://www.infoq.com/news/2025/01/git-modernized-meson-build/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Git 2.48 now supports the Meson build system, a modern alternative to the existing Makefile, Autoconf, and CMake-based systems. This change addresses limitations in IDE support and maintenance issues with older systems.
+
+11번째 검색 내용
+제목: Fluent Assertions Library v8 Abandons Apache Licensing
+주소: https://www.infoq.com/news/2025/01/fluent-assertions-v8-license/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Fluent Assertions, a well-known .NET library that allows expressive asserts in unit tests, has launched version 8 with a proprietary license in partnership with Xceed, replacing the existing Apache 2.0 licence. The new license allows free non-commercial use, but any commercial use will require a paid license. The move has been negatively received by the developer community.
+
+12번째 검색 내용
+제목: Apple New In-App Purchases API for Creator Platforms and Large Catalogs
+주소: https://www.infoq.com/news/2025/01/apple-advanced-commerce-api/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Apple's new Advanced Commerce API provides iOS developers more flexibility to dynamically manage large content catalogs, creator experiences, and subscriptions with optional add-ons, such as premium features. For a developer to be allowed to use the new API, they must request access to Apple.
+
+13번째 검색 내용
+제목: Build Resilient Systems with Insights on AI, Multi-Cloud, Leadership & Security at QCon London 2025
+주소: https://www.infoq.com/news/2025/01/qcon-london-2025-tracks/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: From AI and ML to cloud, leadership, and modern data strategies, QCon London 2025, April 7-11, features 15 tracks of insights from 125+ senior practitioners. Discover practical solutions to scaling architectures, enhancing productivity, securing supply chains, and integrating cutting-edge technologies - all through real-world examples and actionable takeaways.
+
+14번째 검색 내용
+제목: Kubernetes Cloud Repatriation Saves Millions for Data Platform Provider
+주소: https://www.infoq.com/news/2025/01/yellowbrick-cloud-repatriation/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: Yellowbrick, an SQL data platform provider, has significantly reduced costs by moving workloads from the public cloud to its own private Kubernetes-based infrastructure. It has reported an annual saving of $3.9 million by moving its development and testing environments away from AWS, Azure, and Google Cloud Platform.
+
+15번째 검색 내용
+제목: Java News Roundup: Stable Values, Payara Platform, Oracle Critical Patch Update, GraalVM, BellSoft
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan20-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+설명: This week's Java roundup for January 20th, 2025, features news highlighting: JEP 502, Stable Values (Preview); Oracle's Critical Patch Update (CPU) for January 2025; the January 2025 release of the Payara Platform; GraalVM for JDK 23 Community 23.0.2; and BellSoft CPU patches for Liberica JDK.
+
