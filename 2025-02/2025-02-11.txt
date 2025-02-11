@@ -1,75 +1,75 @@
 1번째 검색 내용
 제목: OpenAI Features New o3-mini Model on Microsoft Azure OpenAI Service
-주소: https://www.infoq.com/news/2025/02/mini-o3-azure-openai-service/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/mini-o3-azure-openai-service/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: OpenAI has launched the advanced o3-mini model via Microsoft Azure, enhancing AI applications with improved cost efficiency, faster performance, and adjustable reasoning capabilities. Designed for complex tasks, it supports structured outputs and backward compatibility. With widespread access, the o3-mini empowers developers to drive innovation across various industries.
 
 2번째 검색 내용
 제목: Micronaut Framework 4.7.0 Provides Integration with LangChain4j and Graal Languages
-주소: https://www.infoq.com/news/2025/02/micronaut-langchain4j/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/micronaut-langchain4j/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: The Micronaut Foundation has released Micronaut Framework 4.7.0 in December 2024, four months after the release of version 4.6.0. This version provides LangChain4J support to integrate LLMs into Java applications. Micronaut Graal Languages provides integration with Graal-based dynamic languages such as the Micronaut GraalPy feature to interact with Python.
 
 3번째 검색 내용
 제목: Java News Roundup: LangChain4j 1.0-Beta1, JHipster Lite, GlassFish, Spring Cloud Stream Applications
-주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb03-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb03-2025/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: This week's Java roundup for February 3rd, 2025 features news highlighting: the first beta release of LangChain4j 1.0; versions 1.27.0 and 1.28.0 of JHipster Lite; GlassFish 7.0.22; and versions 2025.0.0 and 2024.0.1 of Spring Cloud Stream Applications.
 
 4번째 검색 내용
 제목: FerretDB, an Open-Source Alternative to MongoDB, Releases Version 2.0
-주소: https://www.infoq.com/news/2025/02/ferretdb-documentdb/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/ferretdb-documentdb/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: FerretDB has announced the first release candidate of version 2.0. Now powered by the recently released DocumentDB, FerretDB serves as an open-source alternative to MongoDB, bringing significant performance improvements, enhanced feature compatibility, vector search capabilities, and replication support.
 
 5번째 검색 내용
 제목: Recent Generations of Apple CPUs Affected by New Side-Channel Vulnerabilities
-주소: https://www.infoq.com/news/2025/02/apple-cpu-side-channel-slap-flop/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/apple-cpu-side-channel-slap-flop/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: Researchers at the Georgia Institute of Technology and the Ruhr University Bochum demonstrated two new side channel attacks on recent M and A CPUs from Apple that leak sensitive information when using Chrome and Safari to visit popular sites.
 
 6번째 검색 내용
 제목: Amazon EventBridge Event Bus Cross-Account Event Delivery
-주소: https://www.infoq.com/news/2025/02/amazon-eventbridge-cross-account/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/amazon-eventbridge-cross-account/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: AWS enhances Amazon EventBridge, enabling direct event delivery across accounts. This feature simplifies architecture, boosts security, and reduces latency, allowing seamless routing of events to AWS services like SQS and Lambda. Leverage fine-grained IAM control for streamlined event sourcing. Discover more about this transformative update on AWS documentation and GitHub.
 
 7번째 검색 내용
 제목: DeepSeek Database Leaking Sensitive Information Highlights AI Security Risks
-주소: https://www.infoq.com/news/2025/02/deepsek-exposed-database/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/deepsek-exposed-database/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: Cloud security firm Wiz uncovered unprotected DeepSeek database giving full control over database operations and access to internal data including millions of lines of chat logs. While the vulnerability has been quickly fixed, the incident shows the need for the AI industry to enforce higher security standards, says the company.
 
 8번째 검색 내용
 제목: Block Launches Open-Source AI Framework Codename Goose
-주소: https://www.infoq.com/news/2025/02/codename-goose/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/codename-goose/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: Block’s Open Source Program Office has launched Codename Goose, an open-source, non-commercial AI agent framework designed to automate tasks and integrate seamlessly with existing tools. Goose provides users with a flexible, on-machine AI assistant that can be customized through extensions, enabling developers and other professionals to enhance their productivity.
 
 9번째 검색 내용
 제목: Java News Roundup: Java Operator SDK 5.0, Open Liberty, Quarkus MCP, Vert.x, JBang, TornadoVM
-주소: https://www.infoq.com/news/2025/02/java-news-roundup-jan27-2025/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-jan27-2025/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: This week's Java roundup for January 27th, 2025, features news highlighting: the GA release of Java Operator SDK 5.0; the January 2025 release of Open Liberty; an implementation of Model Context Protocol in Quarkus; the fourth milestone release of Vert.x 5.0; and point releases of JBang 0.123.0 and TornadoVM 1.0.10.
 
 10번째 검색 내용
 제목: Debezium Joins the Commonhaus Foundation
-주소: https://www.infoq.com/news/2025/02/debezium-joins-commonhaus/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/debezium-joins-commonhaus/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: The Debezium project recently completed its move to the Commonhaus Foundation after consulting with the Debezium community and Red Hat, who exclusively sponsored the project since the start in 2015.
 
 11번째 검색 내용
 제목: Google's Vertex AI in Firebase SDK Now Ready for Production Use
-주소: https://www.infoq.com/news/2025/02/google-vertex-ai-sdk-production/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/google-vertex-ai-sdk-production/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: Three months after its launch in beta, the Vertex AI in Firebase SDK is now ready for production, says Google engineer Thomas Ezan, who further explores three dimensions that are essential for its successful deployment to production: abuse prevention, remote configuration, and responsible AI use.
 
 12번째 검색 내용
 제목: Cloudflare Open Sources Documentation and Adopts Astro for Better Scalability
-주소: https://www.infoq.com/news/2025/02/cloudflare-documentation-astro/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/02/cloudflare-documentation-astro/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: Cloudflare recently published an article detailing their upgrade of developer documentation by migrating from Hugo to the Astro ecosystem. All Cloudflare documentation is open source on GitHub, with opportunities for community contributions.
 
 13번째 검색 내용
 제목: AWS Glue 5.0 Introduces Spark 3.5.2 and Enhanced ETL Performance
-주소: https://www.infoq.com/news/2025/01/aws-glue-5-etl/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/01/aws-glue-5-etl/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: At the latest re:Invent conference in Las Vegas, Amazon announced the general availability of AWS Glue 5.0, designed to accelerate ETL jobs powered by Apache Spark. The latest release of the serverless data integration service introduces upgraded runtimes, including Spark 3.5.2, Python 3.11, and Java 17, along with enhancements in performance and security.
 
 14번째 검색 내용
 제목: JetBrains AI Coding Agent Junie Provides Tight Integration with JetBrains IDEs
-주소: https://www.infoq.com/news/2025/01/jetbrains-junie-agent/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/01/jetbrains-junie-agent/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: JetBrains has announced Junie, its new AI coding agent, in closed preview. Junie, says the company, is able to carry through the coding tasks you assign it and leverage the knowledge about your project context as available in the IDE.
 
 15번째 검색 내용
 제목: DeepSeek Release Another Open-Source AI Model, Janus Pro
-주소: https://www.infoq.com/news/2025/01/deepseek-ai-janus/?topicPageSponsorship=4f5b02a8-fc25-400d-9f80-ff3bf6afba00
+주소: https://www.infoq.com/news/2025/01/deepseek-ai-janus/?topicPageSponsorship=5e1b8dfc-c75d-412b-8554-e76fd6ab114b
 설명: DeepSeek has released Janus-Pro, an updated version of its multimodal model, Janus. The new model improves training strategies, data scaling, and model size, enhancing multimodal understanding and text-to-image generation.
 
