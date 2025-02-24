@@ -1,0 +1,75 @@
+1번째 검색 내용
+제목: Java News Roundup: NetBeans 25, Payara Platform, Hibernate Reactive, Gradle
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb17-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for February 17th, 2025 features news highlighting: the release of Apache NetBeans 25; the February 2025 release of the Payara Platform; the second beta release of Hibernate Reactive 3.0; and the second release candidate of Gradle 8.13.
+
+2번째 검색 내용
+제목: Spring News Roundup: Milestone Releases of Boot, Security, Auth Server, Integration, AI and AMQP
+주소: https://www.infoq.com/news/2025/02/spring-news-roundup-feb17-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: There was a flurry of activity in the Spring ecosystem during the week of February 17th, 2025, highlighting milestone releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring AI and Spring AMQP.
+
+3번째 검색 내용
+제목: How to Defend Amazon S3 Buckets from Ransomware Exploiting SSE-C Encryption
+주소: https://www.infoq.com/news/2025/02/amazon-s3-ransomware/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: A new ransomware campaign, dubbed Codefinger, has been targeting Amazon S3 users by exploiting compromised AWS credentials to encrypt data using Server-Side Encryption with Customer-Provided Keys (SSE-C). Attackers then demand ransom payments for the symmetric AES-256 keys required to decrypt the data. AWS has released recommendations to help users mitigate the risk of ransomware attacks on S3.
+
+4번째 검색 내용
+제목: AWS Reduces Latency and Costs for Key/Value Datastores with AZ Affinity Routing and GLIDE Valkey
+주소: https://www.infoq.com/news/2025/02/valkey-glide-az-affinity-routing/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS recently introduced Availability Zone (AZ) awareness in version 1.2 of the open source Valkey General Language Independent Driver for Enterprise (GLIDE) client library. By implementing AZ affinity routing in the open source key/value datastore, developers can reduce latency and costs by directing requests to replicas within the same AZ as the client.
+
+5번째 검색 내용
+제목: Azure AI Agent Service Now in Public Preview for Developers in AI Foundry SDK and Portal
+주소: https://www.infoq.com/news/2025/02/azure-ai-agent-service-preview/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Introducing the Azure AI Agent Service: a groundbreaking platform that empowers developers to design, deploy, and manage intelligent AI agents seamlessly integrated within the Microsoft ecosystem. Automate tasks, access real-time data, and monitor performance, all while benefiting from easy setup and advanced orchestration. Transform your business with AI-driven efficiency and innovation.
+
+6번째 검색 내용
+제목: .NET MAUI Community Toolkit Adds .NET 9, Offline Speech Recognition
+주소: https://www.infoq.com/news/2025/02/net-maui-toolkit-net9/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Between December 2024 and January 2025, Microsoft released versions 10.0.0 and 11.0.0 of their open-source .NET MAUI Community Toolkit. The new versions add .NET 9 support and offline speech recognition to the toolkit. Many small updates and bug fixes are also released with the toolkit.
+
+7번째 검색 내용
+제목: AWS Launches Trust Center: a Centralized Resource for Security and Compliance Information
+주소: https://www.infoq.com/news/2025/02/aws-introducing-trust-center/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: AWS Trust Center is a comprehensive online resource that enhances cloud security transparency. It details AWS's security practices, compliance protocols, and data protection controls, making it easier for customers to understand and manage their cloud security. This centralized hub provides real-time service status, security bulletins and essential resources, improving client trust & confidence.
+
+8번째 검색 내용
+제목: Meta Introduces LLM-Powered Tool for Software Testing
+주소: https://www.infoq.com/news/2025/02/meta-ach-tool/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Meta has unveiled the Automated Compliance Hardening (ACH) tool, a mutation-guided, LLM-based test generation system. Designed to enhance software reliability and security, ACH generates faults in source code and subsequently creates tests to detect and address these issues.
+
+9번째 검색 내용
+제목: Google Releases Spanner Graph into General Availability
+주소: https://www.infoq.com/news/2025/02/spanner-graph-is-now-ga/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Google Cloud's Spanner Graph is now generally available, featuring enhancements like Graph Notebook, GraphRAG integration, and advanced schema management. This unified database combines graph, relational, and AI capabilities, ensuring high availability and scalability. Ideal for real-time analysis, it transforms use cases like fraud detection and recommendation engines.
+
+10번째 검색 내용
+제목: C# Dev Kit Update: Enhancements to Solution-Less Workspace and More
+주소: https://www.infoq.com/news/2025/02/csharp-dev-kit-update/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Last week, the C# Dev Kit was updated with new features focused on developer workflow and productivity. Key updates include the introduction of solution-less workspace mode, .NET Aspire orchestration, and enhancements to Razor/Blazor support. Additionally, improvements have been made to debugging and testing functionalities.
+
+11번째 검색 내용
+제목: OpenAI Cancels o3 Release and Announces Roadmap for GPT 4.5, 5
+주소: https://www.infoq.com/news/2025/02/openai-new-gpts/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: OpenAI is restructuring its AI strategy to focus solely on GPT-5, consolidating capabilities like reasoning, voice synthesis, and deep research into one unified model. This shift aims to simplify product offerings and enhance user experience, with tiered subscription levels for varying intelligence. As competition heats up, the success of GPT-5 will be pivotal for OpenAI’s future.
+
+12번째 검색 내용
+제목: Dropbox’s Asynchronous Platform Evolution: from Challenges to a Unified Messaging System Model
+주소: https://www.infoq.com/news/2025/02/dropbox-messaging-system-model/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Dropbox, a file sharing cloud platform, recently discussed their Messaging System Model (MSM) that supports diverse use cases and handles over 30 million tasks per minute.
+
+13번째 검색 내용
+제목: DevProxy 0.24 Adds More OpenAPI Options
+주소: https://www.infoq.com/news/2025/02/devproxy-024-openapi/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Microsoft has released version 0.24 of DevProxy, an API simulation command-line tool. The new version improves its compatibility with different OpenAPI specifications and adds a few improvements for daily tasks.
+
+14번째 검색 내용
+제목: Java News Roundup: JDK 24-RC1, JDK Mission Control, Spring, Hibernate, Vert.x, JHipster, Gradle
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb10-2025/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: This week's Java roundup for February 10th, 2025, features news highlighting: the first release candidate of JDK 24; JDK Mission Control 9.1.0; milestone releases of Spring Framework 7.0, Spring Data 2025.0.0 and Hibernate 7.0; release candidates of Vert.x 5.0.0 and Gradle 8.13.0; and JHipster 8.9.0.
+
+15번째 검색 내용
+제목: Distributed Multi-Modal Database Aerospike 8 Brings Support for Real-Time ACID Transactions
+주소: https://www.infoq.com/news/2025/02/aerospike-database-8-acid/?topicPageSponsorship=d34a4624-0077-476b-809c-4b8727bfca0b
+설명: Aerospike has announced version 8.0 of its distributed multi-modal database, bringing support for distributed ACID transactions. This enables large-scale online transaction processing (OLTP) applications like banking, e-commerce, inventory management, health care, order processing, and more, says the company.
+
